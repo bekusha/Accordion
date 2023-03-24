@@ -1,0 +1,39 @@
+
+
+body{
+  background: linear-gradient(180deg, #B068E9 20%, #6463E7 100%);
+  display: grid;
+  height: auto;
+  place-items: center;
+}
+.App{
+  background-color: white;
+  width: 920px;
+  height: 509px;
+  margin-top: 100px;
+  border-radius: 23px;
+  display: flex;
+  margin-bottom: 1000px;
+}
+
+h1{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+margin-top: 65px;
+color: #1E1F36;
+}
+
+.acordion{
+  margin-right: 111px;
+}
+
+.woman{
+  margin-top: 70px;
+  margin-right: 87px;
+  width: 471px;
+  height: 277px;
+  
+}

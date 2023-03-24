@@ -1,0 +1,60 @@
+
+@media (min-width: 391px) {
+    .container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+}
+.container {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.head {
+  font-family: "Kumbh Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #4b4c5f;
+  margin-top: 18px;
+}
+.line {
+  width: 350px;
+  height: 1px;
+  border: solid #e8e8ea;
+  background-color: #e8e8ea;
+  margin-top: 16px;
+}
+
+.line-last {
+  margin-bottom: 83px;
+}
+
+.down {
+  margin-left: 72px;
+}
+
+.up {
+  transform: rotate(180deg);
+  margin-left: 60px;
+}
+
+.head:hover {
+  cursor: pointer;
+  color: #f47b56;
+}
+
+.secondHead {
+  margin-top: 18px;
+  margin-bottom: 13px;
+  font-weight: 700;
+}
+
+.secondHead:hover {
+  cursor: pointer;
+  color: #f47b56;
+}
